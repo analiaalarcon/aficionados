@@ -1473,6 +1473,6 @@ a:hover {
 }
 @media (max-width: 768px) {
   .language-switcher-vertical {
-    padding-top: 1rem; 
+    margin-top: -10px;
   }
 }
