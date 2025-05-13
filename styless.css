@@ -1469,3 +1469,8 @@ a:hover {
 .language-switcher-vertical img:hover {
   transform: scale(1.1);
 }
+@media (max-width: 768px) {
+  .language-switcher-vertical {
+    padding-top: 0.5rem; 
+  }
+}
